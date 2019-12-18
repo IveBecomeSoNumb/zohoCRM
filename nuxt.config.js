@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2019-12-14 19:50:05
- * @LastEditTime: 2019-12-16 22:31:41
+ * @LastEditTime: 2019-12-17 18:18:55
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \homeaway\nuxt.config.js
@@ -21,8 +21,8 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      {rel:'stylesheet', href:'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'},
-      {rel:'stylesheet',href:'https://unpkg.com/element-ui/lib/theme-chalk/index.css'}
+      {rel:'stylesheet', href:'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'}
+      
 
     ]
   },
