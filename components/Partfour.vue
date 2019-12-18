@@ -1,13 +1,15 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-16 12:58:44
- * @LastEditTime: 2019-12-16 22:27:10
+ * @LastEditTime: 2019-12-17 19:57:23
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \homeaway\components\Parttwo.vue
  -->
 <template>
 <div class="four-full">
+  <h1>Customers who've happily switched to Zoho CRM</h1>
+  <div class="slider">
 <b-carousel
       id="carousel-1"
       v-model="slide"
@@ -54,7 +56,7 @@
       </b-carousel-slide>
     </b-carousel>
 
-    
+  </div>
   </div>
 </template>
 
@@ -83,6 +85,14 @@ export default {
     background:#d6efff;
     text-align: center;
 
+}
+.slider{
+  max-width: 950px;
+  width: 100%;
+  margin:0 auto;
+  height: 380px;
+  margin-top: 50px;
+  position: relative;
 }
 .el-carousel__item h3 {
     color: #475669;

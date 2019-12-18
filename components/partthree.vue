@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-16 12:58:44
- * @LastEditTime: 2019-12-16 19:34:24
+ * @LastEditTime: 2019-12-17 19:08:32
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \homeaway\components\Parttwo.vue
@@ -34,7 +34,7 @@ export default {
           { isActive: true, salesforce: 'No', Features: 'Inbuilt AI ', Zoho_CRM: 'Yes' },
           { isActive: true, salesforce: 'No', Features: 'Inbuilt AI ', Zoho_CRM: 'Yes' },
           { isActive: true, salesforce: 'No', Features: 'Inbuilt AI ', Zoho_CRM: 'Yes' },
-          { isActive: true, salesforce: 'No', Features: 'Inbuilt AI ', Zoho_CRM: 'Yes' },
+          
          
         ]
       }

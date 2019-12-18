@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2019-12-14 19:50:05
- * @LastEditTime: 2019-12-17 18:47:04
+ * @LastEditTime: 2019-12-17 19:50:22
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \homeaway\pages\index.vue
@@ -12,6 +12,7 @@
      <parttwo></parttwo>
      <partthree></partthree>
      <partfour></partfour>
+     <partfive></partfive>
    </div>
 </template>
 
@@ -20,14 +21,14 @@ import Partone from '~/components/Partone'
 import Parttwo from '~/components/Parttwo'
 import Partthree from '~/components/Partthree'
 import Partfour from '~/components/Partfour'
-
+import Partfive from '~/components/Partfive'
 
 
 
 
 export default{
   components:{
-    "partone":Partone, "parttwo":Parttwo,"partthree":Partthree,"partfour":Partfour,
+    "partone":Partone, "parttwo":Parttwo,"partthree":Partthree,"partfour":Partfour,"partfive":Partfive
   },
   
 }
