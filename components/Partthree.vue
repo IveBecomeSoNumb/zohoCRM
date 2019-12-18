@@ -1,11 +1,12 @@
 <!--
  * @Author: your name
- * @Date: 2019-12-16 12:58:44
- * @LastEditTime: 2019-12-17 19:08:32
- * @LastEditors: Please set LastEditors
+ * @Date: 2019-12-16 18:25:51
+ * @LastEditTime: 2019-12-17 20:14:12
+ * @LastEditors: your name
  * @Description: In User Settings Edit
- * @FilePath: \homeaway\components\Parttwo.vue
+ * @FilePath: \homeaway\components\Partthree.vue
  -->
+
 <template>
 <div class="partthree-full">
     <h1 class="three">Compare Features</h1>
@@ -17,7 +18,6 @@
 </template>
 
 <script>
-
 export default {
     name:'partthree',
     data() {
@@ -40,7 +40,6 @@ export default {
       }
     }
 }
-
 </script>
 
 <style scoped>
@@ -81,4 +80,4 @@ h1{
   font-family: 'proxima_novasemibold';
   
 }
-</style>
+</style> 
