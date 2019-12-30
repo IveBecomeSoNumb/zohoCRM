@@ -1,6 +1,7 @@
 # homeaway
 
 > My breathtaking Nuxt.js project
+
 link:https://competent-bose-ca23e5.netlify.com/
 
 ## Build Setup
