@@ -3,6 +3,7 @@
 > My breathtaking Nuxt.js project
 
 link:https://competent-bose-ca23e5.netlify.com/
+zoho link:https://www.zoho.com/crm/zwitch/salesforce-crm-alternative.html
 
 ## Build Setup
 
